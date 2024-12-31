@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @BhavyamVerma
-- 👀 I’m interested in python
-- 🌱 I’m currently learning machine learning 
+<h1>Hi 👋, I'm Bhavyam</h1>
+<h3>A Curious Developer Exploring Technology</h3>
 
-<!---
-BhavyamVerma/BhavyamVerma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌐 Gaining knowledge in operating systems, BIOS, and file systems.
+- 💻 Passionate about hardware hacking and system-level exploration.
+- 🐍 Python developer; currently learning C++, web development, and frontend/backend technologies.
+- 🛡️ Pursuing cybersecurity and networking.
+- 🌱 Exploring machine learning and its applications.
+- 🔧 Enthusiastic about building, breaking, and understanding technology.
+
+
